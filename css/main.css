@@ -1,0 +1,17 @@
+.bottom-flex {
+    display: flex;
+    
+    
+}
+
+
+
+.bottom-links {
+    min-width: 100%;
+    background-image: linear-gradient(black, gray);
+    min-height: 100px;
+}
+
+.real-links {
+    min-height: 50px;
+}
